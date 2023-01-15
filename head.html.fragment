@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<title>Are We Dinkum Yet?</title>
+<meta charset="utf-8">
+<h1>Feature list</h1>
+<p><a href="https://mycroft.ai/">Mycroft</a> features that have yet to be ported to <a href="https://mycroft.ai/blog/new-software-options-for-the-mark-ii/">Dinkum</a>.</p>
+<table>
+	<thead>
+		<tr>
+			<td>Feature name</td>
+			<td>Status</td>
+		</tr>
+	</thead>
+	<tr>
+		<td>Skill installation</td>
+		<td>Unknown</td>
+	</tr>
+</table>
+<h1>Skill list</h1>
+<p>Mycroft Marketplace skills that need porting to Dinkum.</p>
+<p>SKILL_SUMMARY</p>
+<table>
+	<thead>
+		<tr>
+			<td>Skill name</td>
+			<td>Status</td>
+		</tr>
+	</thead>
