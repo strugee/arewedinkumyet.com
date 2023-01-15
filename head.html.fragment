@@ -3,8 +3,9 @@
 <meta charset="utf-8">
 <link rel="icon" href="https://mycroft.ai/wp-content/uploads/2019/01/mycroft-logo-transparent.png" sizes="32x32" />
 <h1>Are We <a href="https://mycroft.ai/blog/new-software-options-for-the-mark-ii/">Dinkum</a> Yet?</h1>
+<p>A community-developed overview of where we are on the road to <a href="https://mycroft.ai/">Mycroft</a>'s new Dinkum platform having feature parity with Classic Core. Not affiliated with Mycroft AI, Inc.</p>
 <h2>Platform feature list</h2>
-<p><a href="https://mycroft.ai/">Mycroft</a> features that have yet to be ported to Dinkum.</p>
+<p>Core platform features or roadmap items that aren't implemented in Dinkum yet.</p>
 <table>
 	<thead>
 		<tr>
