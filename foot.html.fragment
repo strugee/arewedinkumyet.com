@@ -15,5 +15,7 @@ This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
 			content="US" about="https://strugee.net/">
 	United States</span>.
+</p>
+<p>
 	The source code is available <a href="https://github.com/strugee/arewedinkumyet.com">on GitHub</a>.
 </p>
