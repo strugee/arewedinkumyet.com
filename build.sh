@@ -30,6 +30,7 @@ skill_list() {
 }
 
 mkdir -p dist/
+cp LICENSE CNAME dist/
 sed "s/SKILL_SUMMARY/$(skill_summary)/" head.html.fragment > dist/index.html
 skill_list >> dist/index.html
 cat foot.html.fragment >> dist/index.html
