@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <title>Are We Dinkum Yet?</title>
 <meta charset="utf-8">
+<link rel="icon" href="https://mycroft.ai/wp-content/uploads/2019/01/mycroft-logo-transparent.png" sizes="32x32" />
 <h1>Are We <a href="https://mycroft.ai/blog/new-software-options-for-the-mark-ii/">Dinkum</a> Yet?</h1>
 <h2>Platform feature list</h2>
 <p><a href="https://mycroft.ai/">Mycroft</a> features that have yet to be ported to Dinkum.</p>
