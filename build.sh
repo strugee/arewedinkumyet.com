@@ -31,7 +31,7 @@ skill_list() {
 
 mkdir -p dist/
 rm -r dist/* 2>/dev/null || true
-cp LICENSE CNAME dist/
+cp LICENSE CNAME *.css dist/
 sed "s/SKILL_SUMMARY/$(skill_summary)/" head.html.fragment > dist/index.html
 skill_list >> dist/index.html
 cat foot.html.fragment >> dist/index.html
