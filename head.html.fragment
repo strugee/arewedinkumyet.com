@@ -3,6 +3,7 @@
 <meta charset="utf-8">
 <link rel="icon" href="https://mycroft.ai/wp-content/uploads/2019/01/mycroft-logo-transparent.png" sizes="32x32">
 <link rel="stylesheet" type="text/css" href="main.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <h1>Are We <a href="https://mycroft.ai/blog/new-software-options-for-the-mark-ii/">Dinkum</a> Yet?</h1>
 <p id="deprecated-warning">This website predates <a href="https://mycroft.ai/blog/update-from-the-ceo-part-1/">the shutdown of Mycroft AI</a> and will not receive any updates. I recommend switching to OVOS or Neon instead - see <a href="https://community.mycroft.ai/t/faq-ovos-neon-and-the-future-of-the-mycroft-voice-assistant/13496">this FAQ</a> for more information.</p>
 <p>A community-developed overview of where we are on the road to <a href="https://mycroft.ai/">Mycroft</a>'s new Dinkum platform having feature parity with Classic Core. Not affiliated with Mycroft AI, Inc.</p>
